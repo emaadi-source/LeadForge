@@ -1,4 +1,4 @@
-# LeadForge: Data Cleaning & AI-Powered Data Enrichment
+# LeadForge: Data Cleaning & AI Powered Data Enrichment
 
 ## 1. Project Overview
 
