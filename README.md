@@ -1,10 +1,10 @@
-# LeadForge — Data Cleaning & AI-Powered Data Enrichment
+# LeadForge: Data Cleaning & AI-Powered Data Enrichment
 
 ## 1. Project Overview
 
 LeadForge is a data cleaning and enrichment pipeline developed for processing a generic business leads dataset.
 
-The project takes a raw CSV dataset, identifies and fixes common data-quality issues, validates important fields, generates useful derived information, and uses Google Gemini AI to add additional business-level enrichment.
+The project takes a raw CSV dataset, identifies and fixes common data quality issues, validates important fields, generates useful derived information, and uses Google Gemini AI to add additional business-level enrichment.
 
 The final cleaned dataset contains 1,000 lead records and is also stored in Google Sheets.
 
@@ -186,9 +186,9 @@ This prevents unsupported assumptions about company revenue, employee count, loc
 
 The AI enrichment pipeline was successfully implemented and tested.
 
-Due to the Gemini free-tier daily request quota, 483 records were successfully AI-enriched during the processing run before the quota was reached.
+Due to the Gemini free tier daily request quota, 483 records were successfully AI enriched during the processing run before the quota was reached.
 
-The complete 1,000-record cleaned and derived-enriched dataset remains available as the main final dataset.
+The complete 1,000 record cleaned and derived-enriched dataset remains available as the main final dataset.
 
 ---
 
